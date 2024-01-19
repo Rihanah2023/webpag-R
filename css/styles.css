@@ -32,7 +32,7 @@ p {
 
    /* Sections */
 .colored-section {
-    background-color:#F9CEEE ;
+    background-color:#d6bfec ;
     color: #ffffff;
 }
 .white-section {
@@ -93,7 +93,7 @@ p {
 }
 
 .icon {
-    color:#ed58c8;
+    color:#d6bfec;
     margin-bottom: 1rem;
 }
 .icon:hover {
@@ -102,7 +102,7 @@ p {
 
 /* Testimonials */
 #testimonials {
-    background-color: #F9CEEE;
+    background-color: #d6bfec;
 }
 .testimonials-text {
     font-size: 3rem;
@@ -121,7 +121,7 @@ p {
     line-height: 2.5;
 }
 #press {
-    background-color: #F9CEEE;
+    background-color: #d6bfec;
     padding-bottom: 3%;
 }
 
